@@ -1,2 +1,2 @@
 # Bezel
-Luxury watch option protocol
+Sneaker price prediction model
